@@ -1,0 +1,10 @@
+# jupyter
+onnxruntime
+torch
+numpy
+matplotlib
+rembg
+torchvision
+scikit-learn
+seaborn
+torchcam
