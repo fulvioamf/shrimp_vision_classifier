@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "Se você utilizar este repositório (código, notebook ou livro/tutorial), por favor cite conforme a referência abaixo."
 title: "Classificação de espécies por Visão Computacional: Shrimp Vision Classifier (Livro + Notebook)"
 type: software
+doi: "10.5281/zenodo.18117228"
 
 authors:
   - family-names: "Silva"
@@ -33,8 +34,8 @@ keywords:
   - "crustáceos"
 
 license: "MIT"
-version: "1.0.0"
-date-released: "2025-12-31"
+version: "1.0.1"
+date-released: "2026-01-01"
 
 preferred-citation:
   type: software
@@ -46,5 +47,6 @@ preferred-citation:
     - family-names: "Freire"
       given-names: "Fulvio Aurélio de Morais"
       affiliation: "UFRN (Universidade Federal do Rio Grande do Norte) — LABEEC"
-  year: 2025
+  year: 2026
+  doi: "10.5281/zenodo.18117228"
   url: "https://github.com/fulvioamf/shrimp_vision_classifier"
