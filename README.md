@@ -1,4 +1,4 @@
-# shrimp_vision_classifier
+# shrimp_vision_classifier (https://doi.org/10.5281/zenodo.18117228)
 
 Este projeto possui uma parcela dos dados utilizados durante a pesquisa realizada pelo
 Laboratório de Ecologia e Evolução de Crustáceos (LABEEC) da UFRN. Sendo composto
