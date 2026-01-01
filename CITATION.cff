@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "Se você utilizar este repositório (código, notebook ou livro/tutorial), por favor cite conforme a referência abaixo."
+title: "Classificação de espécies por Visão Computacional: Shrimp Vision Classifier (Livro + Notebook)"
+type: software
+
+authors:
+  - family-names: "Silva"
+    given-names: "Vitor Carvalho"
+    affiliation: "UFRN (Universidade Federal do Rio Grande do Norte) — LABEEC"
+  - family-names: "Freire"
+    given-names: "Fulvio Aurélio de Morais"
+    affiliation: "UFRN (Universidade Federal do Rio Grande do Norte) — LABEEC"
+
+repository-code: "https://github.com/fulvioamf/shrimp_vision_classifier"
+url: "https://github.com/fulvioamf/shrimp_vision_classifier"
+
+abstract: >
+  Repositório com pipeline completo para classificação de espécies por visão computacional (PyTorch),
+  incluindo pré-processamento, treinamento com transferência de aprendizado (transfer learning),
+  avaliação por métricas e figuras padrão (loss/accuracy, matriz de confusão e ROC/AUC) e
+  interpretabilidade do modelo (Grad-CAM). O material inclui um livro/tutorial em PDF e um notebook
+  comentado com explicação passo a passo e interpretação das saídas.
+
+keywords:
+  - "visão computacional"
+  - "aprendizado de máquina"
+  - "aprendizado profundo"
+  - "CNN"
+  - "transfer learning"
+  - "fine-tuning"
+  - "classificação de espécies"
+  - "camarões"
+  - "crustáceos"
+
+license: "MIT"
+version: "1.0.0"
+date-released: "2025-12-31"
+
+preferred-citation:
+  type: software
+  title: "Classificação de espécies por Visão Computacional: Shrimp Vision Classifier (Livro + Notebook)"
+  authors:
+    - family-names: "Silva"
+      given-names: "Vitor Carvalho"
+      affiliation: "UFRN (Universidade Federal do Rio Grande do Norte) — LABEEC"
+    - family-names: "Freire"
+      given-names: "Fulvio Aurélio de Morais"
+      affiliation: "UFRN (Universidade Federal do Rio Grande do Norte) — LABEEC"
+  year: 2025
+  url: "https://github.com/fulvioamf/shrimp_vision_classifier"
